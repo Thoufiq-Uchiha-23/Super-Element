@@ -10,8 +10,8 @@ const Navbar = () => {
   };
 
   return (
-    <div className="">
-      <div>Hello World</div>
+    <div className="w-full h-20 bg-rose-900">
+      <h1 className="text-6xl text-center font-semibold">SUPER ELEMENT</h1>
     </div>
   );
 };
