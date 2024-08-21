@@ -1,5 +1,6 @@
 import { useState } from "react";
 import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
 
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <>
       <div className="w-full font-code overflow-x-hidden">
         <Navbar />
+        <Hero />
       </div>
     </>
   );
