@@ -11,7 +11,7 @@ const Navbar = () => {
 
   return (
     <div className="w-full h-20 bg-zinc-800 flex items-center justify-between">
-      <h1 className="text-6xl text-center font-semibold bg-clip-text bg-gradient-to-r from-red-700 to-blue-900 text-transparent">SUPER ELEMENT</h1>
+      <h1 className="text-6xl font-kar text-center font-semibold bg-clip-text bg-gradient-to-r  from-red-700 to-blue-900 text-transparent">SUPER ELEMENT</h1>
       <div className="flex justify-between items-center gap-3">
         <a href="/">Home</a>
         <a href="/">Characters</a>
